@@ -1,13 +1,13 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="_3*bcFn3n.:X+zmQw,VY">A math question</variable></variables><block type="device_button_event" id="AD$KLkaqs~09|[]{pVzT" x="-361" y="-6"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="$}wk+oHGJ)i|BQwj;88:"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="_3*bcFn3n.:X+zmQw,VY">A math question</variable></variables><block type="device_button_event" id="v/6r^D]nYy#ra7VsU3M0" x="-361" y="-6"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="TEED)##`v~p55rAtT=Rk"><field name="LEDS">`
         . # . # . 
         # # # # # 
         # # # # # 
         . # # # . 
         . . # . .
-        `</field><next><block type="device_show_leds" id="nmLo^]LQcX:r/ALLCzyX"><field name="LEDS">`
+        `</field><next><block type="device_show_leds" id="x*Scf._0OV/mRnDM6.Gq"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . . . . 
         . . . . . 
         . . . . .
-        `</field></block></next></block></statement></block><block type="device_button_event" id="e??b]iiIV!AV;+!hY:a{" x="0" y="0"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id="zGABq*Qubqlc3BI=B;mT"><value name="text"><shadow type="text" id="!B8M]?Z6ZwfXB/nRlDsi"><field name="TEXT">I am Microbit a mini computer!</field></shadow></value></block></statement></block></xml>
+        `</field></block></next></block></statement></block><block type="device_button_event" id=";haba}hwNd_p2c{`yL1[" x="0" y="0"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id=";alZZ`~vOGf2)$_7Z:dx"><value name="text"><shadow type="text" id="rsO*-Tc*c!wZZ(TQ2,]j"><field name="TEXT">I am Microbit a mini computer!</field></shadow></value></block></statement></block></xml>
